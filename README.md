@@ -12,10 +12,19 @@ main{
     infile.open data.csv
     string line
     while file is still going{
-        break into int 1 int 2 str
-        int 1 + int 2 = int 3
-        for i int int 3{
-            print str
+        clear stringstream
+        string int 1
+        string int 2
+        string 1
+        int 1
+        int 2
+        get line (string stream, string int 1, ',')
+        get line (string stream, string int 2, ',')
+        get line (string stream, string 1)
+        string stream << string int 1 << string int 2
+        string stream >> int 1 >> int 2
+        for i in int 1 + int 2{
+            print string 1
         }
     } // end while
     infile.close file
